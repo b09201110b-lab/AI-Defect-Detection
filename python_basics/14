@@ -1,0 +1,5 @@
+label = "Scratch"
+
+print(label[0:3])
+print(label[2:5])
+print(label[len(label)-3:len(label)+1])
